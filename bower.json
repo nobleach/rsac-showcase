@@ -1,0 +1,23 @@
+{
+  "name": "rsac-showcase",
+  "version": "0.0.1",
+  "description": "Showcase element for RSAC table of contents",
+  "authors": [
+    "Jim Wharton"
+  ],
+  "license": "MIT",
+  "main": "rsac-showcase.html",
+  "keywords": [
+    "web-components"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "platform": "Polymer/platform#~0.2.3",
+    "polymer": "Polymer/polymer#~0.2.3",
+    "polymer-signals": "Polymer/polymer-signals#~0.2.3"
+  }
+}
